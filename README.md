@@ -16,6 +16,7 @@ Organismsはスタイルに関心も持ってしまっているのが問題
 ## Presentational Component & Container Component
 - ロジック/Viewの分離に対する関心
 - 全てのデータをVuexに持たせる
+- Storeとの疎通はContainerからのみ
 Presentationalの粒度が曖昧になりがち
 
 
